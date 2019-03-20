@@ -2,7 +2,7 @@ enum Curso {
 	PRIMARIA, ESO, BACHILLERATO, UNIVERSIDAD
 };
 
-public class Estudiante{
+public class Estudiante extends Persona{
 	Curso curso;
 	private String nombre;
 	private String apellidos;
