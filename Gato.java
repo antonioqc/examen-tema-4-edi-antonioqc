@@ -6,7 +6,7 @@ public class Gato {
 	}
 
 	void maullar() {
-		System.out.println("Miau");
+		System.out.println("Maulla");
 	}
 
 }
